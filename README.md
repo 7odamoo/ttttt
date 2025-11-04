@@ -1,1 +1,1 @@
-[a](javascript:prompt(document.cookie))
+![a](ssss:aaaaaa)
